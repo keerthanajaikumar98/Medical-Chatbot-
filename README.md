@@ -1,2 +1,2 @@
-# Medical-Chatbot-
+# Medical-Chatbot
 Utilizing LangChain, PineCone, Flask and AWS
